@@ -171,6 +171,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![Screenshot (4)](https://github.com/user-attachments/assets/a367d1d8-2b87-463f-a2f2-8cb911645dd8)
 ![Screenshot 2024-12-13 180432](https://github.com/user-attachments/assets/4525c0cd-e821-4c8f-897b-ed07239208ad)
+![Screenshot (6)](https://github.com/user-attachments/assets/9de53e1d-7993-40b9-b71c-000c39ed6bfa)
+
 
 
 
